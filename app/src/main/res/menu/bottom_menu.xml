@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/feeds"
+    android:icon="@drawable/ic_home"
+    android:title="@string/home"
+    />
+    <item
+    android:id="@+id/chat"
+    android:icon="@drawable/ic_baseline_message_24"
+    android:title="@string/message"
+    />
+    <item
+    android:id="@+id/setting"
+    android:icon="@drawable/ic_baseline_settings_24"
+    android:title="@string/setting"
+    />
+
+</menu>

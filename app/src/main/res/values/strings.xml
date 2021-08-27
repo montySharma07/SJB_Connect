@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SBJ Connect</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="type_message">Type Message</string>
+    <string name="label_sign_up">Sign Up</string>
+    <string name="btn_sign_up">Sign Up</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_save">Save</string>
+    <string name="label_sign_in">Sign In</string>
+    <string name="label_message">Message</string>
+    <string name="label_profile">Profile</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_confirm_password">Enter Confirm Password</string>
+    <string name="feeds">Feeds</string>
+    <string name="todo">TODO</string>
+    <string name="home">Home</string>
+    <string name="message">Message</string>
+    <string name="setting">Setting</string>
+    <string name="post">Post</string>
+    <string name="enter_content">Enter Content</string>
+    <string name="logout">Logout</string>
+    <string name="fees_payment">Fees Payment</string>
+    <string name="sjbit">SJBIT</string>
+    <string name="enter_amount_to_pay">Enter amount to pay</string>
+    <string name="pay">Pay</string>
+</resources>
